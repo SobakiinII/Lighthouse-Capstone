@@ -1,0 +1,65 @@
+name,frame,card_type,sub_type,cardmarket,tcgplayer,word_count,adds,banishes,negates,field_wipe,searches,recovers,leave_field_trigger,send_trigger,OPT,release
+Accesscode Talker,link,Link Monster,Cyberse,19.71,19.59,89,False,True,False,False,False,False,False,False,False,2020-01-11
+Anti-Spell Fragrance,trap,Trap Card,Continuous,0.23,0.29,20,False,False,False,False,False,False,False,False,False,2000-12-07
+"Apollousa, Bow of the Goddess",link,Link Monster,Fairy,8.70,5.01,64,False,False,True,False,False,False,False,False,False,2019-04-13
+Ash Blossom & Joyous Spring,effect,Tuner Monster,Zombie,3.08,2.96,64,True,False,True,False,False,False,False,True,True,2017-01-14
+Borreload Dragon,link,Link Monster,Dragon,0.98,0.78,89,False,False,False,False,False,False,False,True,True,2017-07-08
+Borrelsword Dragon,link,Link Monster,Dragon,1.43,1.20,97,False,False,False,False,False,False,False,False,True,2018-04-14
+Called by the Grave,spell,Spell Card,Quick-Play,0.20,0.38,42,False,True,True,False,False,False,False,False,False,2018-01-13
+Cosmic Cyclone,spell,Spell Card,Quick-Play,0.19,0.22,12,False,True,False,False,False,False,False,False,False,2016-04-09
+Crossout Designator,spell,Spell Card,Quick-Play,14.79,13.27,54,False,True,True,False,False,False,False,False,False,2019-05-21
+Crystron Halqifibrax,link,Link Monster,Machine,0.56,0.38,83,False,True,False,False,False,False,False,False,True,2017-11-25
+Dark Hole,spell,Spell Card,Normal,0.12,0.18,6,False,False,False,False,False,False,False,False,False,1999-02-04
+Dark Ruler No More,spell,Spell Card,Normal,0.10,0.28,45,False,False,True,False,False,False,False,False,False,2019-09-14
+Dimension Shifter,effect,Effect Monster,Spellcaster,0.34,0.18,37,False,True,False,False,False,True,False,True,False,2019-09-14
+Dimensional Barrier,trap,Trap Card,Normal,0.18,0.18,52,False,False,True,False,False,False,False,False,False,2016-07-09
+Dinowrestler Pankratops,effect,Effect Monster,Dinosaur,0.24,0.40,59,False,False,False,False,False,False,False,False,True,2018-07-14
+Droll & Lock Bird,effect,Effect Monster,Spellcaster,2.17,3.61,49,True,False,False,False,False,False,False,True,False,2011-09-17
+Effect Veiler,effect,Tuner Monster,Spellcaster,0.18,0.90,42,False,False,True,False,False,False,False,True,False,2010-04-17
+Evenly Matched,trap,Trap Card,Normal,1.26,0.75,51,False,True,False,False,False,False,False,False,False,2017-07-08
+Evilswarm Exciton Knight,xyz,XYZ Monster,Fiend,9.24,6.59,57,False,False,False,False,False,False,False,False,False,2013-11-16
+Fantastical Dragon Phantazmay,effect,Effect Monster,Dragon,5.65,2.79,96,False,False,True,False,False,False,False,False,True,2018-10-13
+Foolish Burial,spell,Spell Card,Normal,0.11,0.26,9,False,False,False,False,False,False,False,True,False,2003-08-07
+Forbidden Droplet,spell,Spell Card,Quick-Play,4.19,1.85,80,False,False,True,False,False,False,False,True,False,2020-04-18
+"Gameciel, the Sea Turtle Kaiju",effect,Effect Monster,Aqua,4.69,5.23,85,False,True,True,False,False,False,False,False,False,2016-09-10
+Ghost Belle & Haunted Mansion,effect,Tuner Monster,Zombie,0.30,0.25,68,True,True,True,False,False,False,False,False,True,2018-01-13
+Ghost Ogre & Snow Rabbit,effect,Tuner Monster,Psychic,0.30,0.56,59,False,False,False,False,False,False,False,True,True,2015-02-14
+Gravity Controller,link,Link Monster,Psychic,0.13,0.13,72,False,False,False,False,False,False,False,False,False,2019-10-12
+Harpie's Feather Duster,spell,Spell Card,Normal,1.13,1.55,9,False,False,False,False,False,False,False,False,False,1999-07-08
+"Hey, Trunade!",spell,Spell Card,Normal,0.12,0.23,12,False,False,False,False,False,False,False,False,False,2017-10-14
+I:P Masquerena,link,Link Monster,Cyberse,5.60,3.56,58,False,False,False,False,False,False,False,False,True,2019-07-13
+Imperial Order,trap,Trap Card,Continuous,0.45,0.30,28,False,False,True,False,False,False,False,False,True,2000-09-28
+Infinite Impermanence,trap,Trap Card,Normal,2.17,2.51,59,False,False,True,False,False,False,False,False,False,2018-01-13
+Instant Fusion,spell,Spell Card,Normal,0.30,0.48,44,False,False,False,False,False,False,False,False,False,2006-08-10
+Knightmare Cerberus,link,Link Monster,Fiend,0.67,0.50,68,False,False,False,False,False,False,False,False,True,2018-01-13
+Knightmare Phoenix,link,Link Monster,Fiend,0.74,0.50,62,False,False,False,False,False,False,False,False,True,2018-01-13
+Knightmare Unicorn,link,Link Monster,Fiend,0.28,0.15,92,False,False,False,False,False,False,False,False,True,2018-01-13
+Lightning Storm,spell,Spell Card,Normal,2.95,1.04,38,False,False,False,False,False,False,False,False,False,2019-10-12
+Magicians' Souls,effect,Effect Monster,Spellcaster,14.29,16.68,88,False,False,False,False,False,True,False,True,True,2019-11-09
+Mana Dragon Zirnitron,effect,Effect Monster,Dragon,0.14,0.16,92,False,True,False,False,False,True,True,False,True,2018-04-14
+Mekk-Knight Crusadia Avramax,link,Link Monster,Cyberse,0.51,0.16,98,False,False,False,False,False,True,False,True,False,2019-01-12
+Mind Control,spell,Spell Card,Normal,0.20,0.24,24,False,False,False,False,False,False,False,False,False,2004-12-30
+Monster Reborn,spell,Spell Card,Normal,0.09,0.26,9,False,False,False,False,False,False,False,False,False,1999-03-27
+Mystic Mine,spell,Spell Card,Field,0.91,0.38,56,False,False,False,False,False,False,False,False,True,2019-01-12
+"Nibiru, the Primal Being",effect,Effect Monster,Rock,1.90,1.04,83,False,False,False,False,False,False,False,False,True,2019-09-14
+Pot of Desires,spell,Spell Card,Normal,0.34,0.30,23,False,True,False,False,False,False,False,False,False,2016-04-09
+Pot of Extravagance,spell,Spell Card,Normal,0.41,0.35,46,False,True,False,False,False,False,False,False,False,2018-10-13
+Predaplant Verte Anaconda,link,Link Monster,Plant,1.75,0.71,78,False,False,False,False,False,False,False,True,True,2019-11-23
+PSY-Framegear Gamma,effect,Tuner Monster,Psychic,0.53,0.67,74,False,True,True,False,False,False,False,False,False,2015-08-22
+Raigeki,spell,Spell Card,Normal,0.95,1.06,6,False,False,False,False,False,False,False,False,False,1999-03-06
+Red Reboot,trap,Trap Card,Counter,0.19,0.14,58,False,False,True,False,False,False,False,False,False,2018-01-13
+Red-Eyes Dark Dragoon,fusion,Fusion Monster,Spellcaster,19.62,23.05,115,False,False,True,False,False,False,False,False,True,2019-12-21
+Salamangreat Almiraj,link,Link Monster,Cyberse,0.23,0.31,69,False,False,False,False,False,True,False,False,True,2019-03-09
+Scapegoat,spell,Spell Card,Quick-Play,0.10,0.14,36,False,False,False,False,False,False,False,False,False,2001-04-01
+Set Rotation,spell,Spell Card,Quick-Play,0.12,0.20,42,False,False,False,False,False,False,False,False,False,2017-01-14
+Skull Meister,effect,Effect Monster,Fiend,0.56,0.34,26,False,False,True,False,False,False,False,True,False,2011-09-17
+Solemn Judgment,trap,Trap Card,Counter,1.22,1.26,28,False,False,True,False,False,False,False,False,False,1999-11-18
+Solemn Strike,trap,Trap Card,Counter,0.41,0.31,28,False,False,True,False,False,False,False,False,False,2015-10-17
+Solemn Warning,trap,Trap Card,Counter,0.37,0.52,39,False,False,True,False,False,False,False,False,False,2010-04-17
+Super Polymerization,spell,Spell Card,Quick-Play,2.89,3.74,33,False,False,False,False,False,False,False,False,False,2007-11-23
+Terraforming,spell,Spell Card,Normal,0.09,0.20,10,True,False,False,False,False,False,False,False,False,2002-05-16
+The Winged Dragon of Ra - Sphere Mode,effect,Effect Monster,Divine-Beast,0.74,0.37,85,False,False,False,False,False,False,False,False,False,2015-06-06
+Triple Tactics Talent,spell,Spell Card,Normal,4.75,3.68,63,False,False,False,False,False,False,False,False,False,2020-04-18
+Twin Twisters,spell,Spell Card,Quick-Play,0.35,0.31,14,False,False,False,False,False,False,False,False,False,2015-10-17
+Upstart Goblin,spell,Spell Card,Normal,2.77,1.18,9,False,False,False,False,False,False,False,False,False,2000-04-20
+World Legacy Succession,spell,Spell Card,Normal,2.89,5.59,27,False,False,False,False,False,True,False,False,False,2018-01-13
